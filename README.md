@@ -12,3 +12,9 @@
 리액트에서 타입스크립트로 todolist 만들기 수업
 
 [day02.txt](https://github.com/hyounji375/Typescript/files/9665649/day02.txt)
+
+1001
+
+지난 시간 이어서 todolist 
+
+[tstodo.zip](https://github.com/hyounji375/Typescript/files/9690532/tstodo.zip)
