@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs"
+  }
+}
+//타입스크립트를 자바스크립트로 컴파일(변환)할 때 적용할 옵션
