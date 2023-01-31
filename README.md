@@ -18,3 +18,14 @@
 지난 시간 이어서 todolist 
 
 [tstodo.zip](https://github.com/hyounji375/Typescript/files/9690532/tstodo.zip)
+
+---------------------------------------------------------------------------------------------------
+0201
+
+readonly를 사용하면 읽기 전용이 되므로 수정이 불가능하다.
+
+ex) interface User {
+name : string;
+age : number;
+readonly birthday : number;
+}
