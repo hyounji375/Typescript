@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "module": "commonjs"
+    "module": "commonjs",
+    "strictNullChecks": true
+    //null 타입이 들어올 때 엄격하게 체크
   }
 }
 //타입스크립트를 자바스크립트로 컴파일(변환)할 때 적용할 옵션
